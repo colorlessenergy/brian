@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://colorlessenergy.github.io/brian/"
 languageCode = "en-us"
 title = "Brian"
 theme = "portfolio"
